@@ -1,4 +1,5 @@
 # React TypeScript Cheatsheet
+# New changes by new developer
 
 Cheatsheet for using React with TypeScript.
 
